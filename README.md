@@ -6,5 +6,5 @@ $$
 
 | Property            | Data                                                                                                                                                |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **OS**              | [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?style=flat&logo=archlinux&logoColor=0088cc)](https://github.com/stepbystepcode/stepbystepcode) |
-| **Tools & Platform**| ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=TailwindCSS&logoColor=white) |
+| **OS**              | [![macOS](https://img.shields.io/badge/-macOS-black?style=flat&logo=apple&logoColor=white)](https://github.com/stepbystepcode/stepbystepcode) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&logoColor=white)](https://github.com/stepbystepcode/stepbystepcode) |
+| **Tools & Platform**| ![PyCharm](https://img.shields.io/badge/pycharm-3178C6?style=for-the-badge&logo=pycharm&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-3178C6?style=for-the-badge&logo=webstorm&logoColor=white) |
