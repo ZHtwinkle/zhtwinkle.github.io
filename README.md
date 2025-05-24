@@ -1,5 +1,3 @@
 # zhtwinkle.github.io
 ## Test
-$$
-\sum_n (x)
-$$
+$\sum_n (x)$ 
